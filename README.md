@@ -115,8 +115,8 @@ int main(void)
   
   while (1)
   {
-	  printf("DANICA\n");
-	  printf("CHRISTA\n");
+	  printf("saveetha engineerng college\n");
+	  printf("scoft\n");
      HAL_Delay(500);
   }
 }
